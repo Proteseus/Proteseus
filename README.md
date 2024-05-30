@@ -1,7 +1,7 @@
 # 💫 About Me:
 Computer Science graduate and python developer with interests ranging from web to AI and Machine Learning.
 Enthusiastic coder and programmer and entrepreneur, love to learn and expand my base.
-One of 2 founders and acting COO of [Adwa Dynamics Software Technologies](https://adwadynamics.com)
+One of 2 founders and acting COO at [Adwa Dynamics Software Technologies](https://adwadynamics.com)
 
 
 # 💻 Tech Stack:
