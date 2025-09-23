@@ -1,7 +1,9 @@
 # 💫 About Me:
 Computer Science graduate and python developer with interests ranging from web to AI and Machine Learning.
 <br>Enthusiastic coder and programmer and entrepreneur, love to learn and expand my base.
-<br>One of 2 founders and 4 co-founders, acting Operations Officer at [Adwa Dynamics Software Technologies](https://www.linkedin.com/company/adwa-dynamics/)
+<br>Builder and provider of [Yenante Host](https://yenantehost.com)
+<br>Forge Master at [The Promethean Enclave](https://Promethean Enclave.tech)
+<brFormer Co-Founder and Operations Officer at [Adwa Dynamics Software Technologies](https://www.linkedin.com/company/adwa-dynamics/)
 
 
 # 💻 Tech Stack:
