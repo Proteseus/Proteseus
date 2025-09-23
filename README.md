@@ -3,7 +3,7 @@ Computer Science graduate and python developer with interests ranging from web t
 <br>Enthusiastic coder and programmer and entrepreneur, love to learn and expand my base.
 <br>Builder and provider of [Yenante Host](https://yenantehost.com)
 <br>Forge Master at [The Promethean Enclave](https://PrometheanEnclave.tech)
-<brFormer Co-Founder and Operations Officer at [Adwa Dynamics Software Technologies](https://www.linkedin.com/company/adwa-dynamics/)
+<br>Former Co-Founder and Operations Officer at [Adwa Dynamics Software Technologies](https://www.linkedin.com/company/adwa-dynamics/)
 
 
 # 💻 Tech Stack:
