@@ -1,19 +1,44 @@
-# 💫 About Me:
-Computer Science graduate and python developer with interests ranging from web to AI and Machine Learning.
-<br>Enthusiastic coder and programmer and entrepreneur, love to learn and expand my base.
-<br>Builder and provider of [Yenante Host](https://yenantehost.com)
-<br>Forge Master at [The Promethean Enclave](https://PrometheanEnclave.tech)
-<br>Former Co-Founder and Operations Officer at [Adwa Dynamics Software Technologies](https://www.linkedin.com/company/adwa-dynamics/)
+# 💫 Lewi Belayneh (Proteseus)
 
+Computer Science graduate and software developer building scalable SaaS platforms and managing cloud infrastructure. Passionate about DevOps, self-hosting, and efficient system architecture.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Proteseus?theme=dark)]<br/>
-![](https://github-readme-stats.vercel.app/api?username=Proteseus&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Proteseus&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Proteseus&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
-[](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Proteseus&theme=tokyonight)<br/>
+### 🚀 What I'm Building
+- ☁️ **Builder & Provider:** [Yenante Host](https://yenantehost.com)
+- 🛠️ **Forge Master:** [The Promethean Enclave](https://PrometheanEnclave.tech)
+- 🏢 **Former Co-Founder & Operations Officer:** Adwa Dynamics
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 💻 Modern Tech Stack
+
+**Frontend & Mobile** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+**Backend & Database** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EA4335?style=for-the-badge&logo=convex&logoColor=white)
+
+**DevOps & Infrastructure** ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Linux VPS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+**Workspace & Environment** ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-005F97?style=for-the-badge&logo=neovim&logoColor=white)
+![Fish Shell](https://img.shields.io/badge/Fish_Shell-4CAF50?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
+### 📊 GitHub Overview
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Proteseus&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="Proteseus GitHub Stats" />
+</div>
+
+---
+
+### 📫 Connect With Me
+- **Website:** [lewibelayneh.com](http://lewibelayneh.com)
+- **Telegram:** [@Leviticus_98](https://t.me/Leviticus_98)
