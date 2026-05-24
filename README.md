@@ -27,6 +27,7 @@ Computer Science graduate and software developer building scalable SaaS platform
 
 **Workspace & Environment** ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-005F97?style=for-the-badge&logo=neovim&logoColor=white)
+![Foot Terminal](https://img.shields.io)
 ![Fish Shell](https://img.shields.io/badge/Fish_Shell-4CAF50?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
@@ -34,7 +35,7 @@ Computer Science graduate and software developer building scalable SaaS platform
 ### 📊 GitHub Overview
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Proteseus&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="Proteseus GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Proteseus&theme=dark&hide_border=true" alt="Proteseus GitHub Stats" />
 </div>
 
 ---
