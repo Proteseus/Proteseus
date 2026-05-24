@@ -34,7 +34,7 @@ Computer Science graduate and software developer building scalable SaaS platform
 
 ### 📊 GitHub Overview
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Proteseus&theme=dark&hide_border=true" alt="Proteseus GitHub Stats" />
 </div>
 
