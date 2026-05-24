@@ -27,7 +27,7 @@ Computer Science graduate and software developer building scalable SaaS platform
 
 **Workspace & Environment** ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-005F97?style=for-the-badge&logo=neovim&logoColor=white)
-![Foot Terminal](https://img.shields.io)
+![Foot Terminal](https://img.shields.io/badge/Foot_Terminal-11111B?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Fish Shell](https://img.shields.io/badge/Fish_Shell-4CAF50?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
