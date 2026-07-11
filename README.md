@@ -5,7 +5,7 @@ Computer Science graduate and software developer building scalable SaaS platform
 ### 🚀 What I'm Building
 - ☁️ **Builder & Provider:** [Yenante Host](https://yenantehost.com)
 - ☁️ **Builder & Manager:** [SalonOS](https://salon.et)
-- 🛠️ **Forge Master:** [The Promethean Enclave](https://PrometheanEnclave.tech)
+- 🛠️ **Forge Master**
 - 🏢 **Former Co-Founder & Operations Officer:** Adwa Dynamics
 
 ---
