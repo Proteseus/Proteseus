@@ -42,5 +42,5 @@ Computer Science graduate and software developer building scalable SaaS platform
 ---
 
 ### 📫 Connect With Me
-- **Website:** [lewibelayneh.com](http://lewibelayneh.com)
+- **Website:** [lewibelayneh.com](https://lewibelayneh.com)
 - **Telegram:** [@Leviticus_98](https://t.me/Leviticus_98)
