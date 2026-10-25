@@ -3,9 +3,9 @@
 Computer Science graduate and software developer building scalable SaaS platforms and managing cloud infrastructure. Passionate about DevOps, self-hosting, and efficient system architecture.
 
 ### 🚀 What I'm Building
-- ☁️ **Builder, Provider & Manager:** [Yenante Host](https://yenantehost.com)
+- ☁️ **Builder, Provider & Manager:** [Rekebot](https://rekebo.et)
 - ☁️ **Builder & Manager:** [SalonOS](https://salon.et)
-- 🛠️ **Forge Master:** The Promethean Enclave
+- 🛠️ **Forge Master:** [Hephaest](https://hephaest.et)
 - 🏢 **Former Co-Founder & Operations Officer:** Adwa Dynamics
 
 ---
